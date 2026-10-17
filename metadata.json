@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash 3D",
+  "description": "Metro Dash 3D — Premium endless runner game featuring stylized 3D characters, subway trains, power-ups, missions, and high-speed railway thrills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
